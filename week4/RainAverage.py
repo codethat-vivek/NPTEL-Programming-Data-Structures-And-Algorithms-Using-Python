@@ -20,7 +20,6 @@ Here are some examples to show how rainaverage(l) should work.
 # SOLUTION - 
 
 # 1st Problem
-
 def rainaverage(l):
   dt = {}
   for each in l:
